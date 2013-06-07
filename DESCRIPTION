@@ -1,0 +1,14 @@
+Package: singleton
+Type: Package
+Title: Just Create an Object
+Version: 1.0
+Date: 2013-06-07
+Authors@R: c(
+    person("Adam", "Hyland",
+    email = "achyland@bocoup.com", role = c("aut", "cre")))
+Description: Does what it says on the tin.
+Depends:
+    R (>= 3.0.1)
+License: MIT
+Collate:
+    'singleton.R'
